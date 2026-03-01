@@ -5,5 +5,7 @@
 17 Feb 2026 - Unix based means Unix like, not Unix.
 19 Feb 2026 - Cuda, Metal, Tenzor
 20 Feb 2026 - MacOS Hardware -> in between -> to docker level system seperation
-22 Feb 2026 - Basic of Version Control Using Git
+24 Feb 2026 - Python Error handling
+25 Feb 2026 - Python Object Oriented Programming
+26 Feb 2026 - Basic of Version Control Using Git
 1 Mar 2026 - Fully understand Untrack -> Unmodified -> Modified -> Staged : Git process
