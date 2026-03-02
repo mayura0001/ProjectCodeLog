@@ -8,4 +8,6 @@
 24 Feb 2026 - Python Error handling
 25 Feb 2026 - Python Object Oriented Programming
 26 Feb 2026 - Basic of Version Control Using Git
-1 Mar 2026 - Fully understand Untrack -> Unmodified -> Modified -> Staged : Git process
+1 Mar 2026 - Fully understand Untracked -> Unmodified -> Modified -> Staged : Git process
+2 Mar 2026 - Started the RPC Project on FreeCodeCamp, Revise TensorFlow basics, Github Achievements, Calculus Begins, Second account/OldWebDev folder push
+3 Mar 2026 - Push MIS FinalProject, 
