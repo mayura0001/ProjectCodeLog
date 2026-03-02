@@ -1,10 +1,10 @@
 1 Feb 2026 - Completely Run Fooocus Model
 5 Feb 2026 - Venv, Conda
-11 Feb 2026 - SadTalker Stuggle
+11 Feb 2026 - SadTalker Struggle
 15 Feb 2026 - Explore Docker
 17 Feb 2026 - Unix based means Unix like, not Unix.
 19 Feb 2026 - Cuda, Metal, Tenzor
-20 Feb 2026 - MacOS Hardware -> in between -> to docker level system seperation
+20 Feb 2026 - MacOS Hardware -> in between -> to docker level system separation
 24 Feb 2026 - Python Error handling
 25 Feb 2026 - Python Object Oriented Programming
 26 Feb 2026 - Basic of Version Control Using Git
