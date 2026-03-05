@@ -10,4 +10,6 @@
 26 Feb 2026 - Basic of Version Control Using Git
 1 Mar 2026 - Fully understand Untracked -> Unmodified -> Modified -> Staged : Git process
 2 Mar 2026 - Started the RPC Project on FreeCodeCamp, Revise TensorFlow basics, Github Achievements, Calculus Begins, Second account/OldWebDev folder push
-3 Mar 2026 - Push MIS FinalProject, 
+3 Mar 2026 - Push MIS FinalProject
+4 Mar 2026 - read and understood the first project of freecodecamp ml with python course
+5 Mar 2026 - 
