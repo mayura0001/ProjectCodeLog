@@ -15,4 +15,4 @@
 5 Mar 2026 - TenzorFlow explored again, assembly language
 6 Mar 2026 - understood the code structure, game - bot behavior, how to operate the game
 7 Mar 2026 - full understanding of the RPC code
-9 Mar 2026 - updated the log
+9 Mar 2026 - updated the log, started learning docker
