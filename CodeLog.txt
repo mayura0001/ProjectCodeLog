@@ -12,7 +12,12 @@
 2 Mar 2026 - Started the RPC Project on FreeCodeCamp, Revise TensorFlow basics, Github Achievements, Calculus Begins, Second account/OldWebDev folder push
 3 Mar 2026 - Push MIS FinalProject
 4 Mar 2026 - read and understood the first project of freecodecamp ml with python course
-5 Mar 2026 - TenzorFlow explored again, assembly language
+5 Mar 2026 - TensorFlow explored again, assembly language
 6 Mar 2026 - understood the code structure, game - bot behavior, how to operate the game
 7 Mar 2026 - full understanding of the RPC code
 9 Mar 2026 - updated the log, started learning docker
+13 Mar 2026 - realize cloud gitpod don't do the job efficiently, assembly language in computer architecture
+15 Mar 2026 - programming 1 python files upload , python assertations
+16 Mar 2026 - complete local config of boilerplate RockPaperSciessiors
+17 Mar 2026 - docker on RPS Predictor, datacollector.py , Updated the log
+ 
